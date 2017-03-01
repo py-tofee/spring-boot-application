@@ -1,4 +1,4 @@
-package com.example.helloWorld;
+package com.example.hello;
 
 /**
  * Created by yao.peng on 2017/2/28.
